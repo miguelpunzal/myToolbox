@@ -1,0 +1,75 @@
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CefSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CefSharp.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CefSharp.WinForms.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RALLY_NOTIFYER.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FSharp.Core.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.ADOX.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\CefSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\CefSharp.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\CefSharp.WinForms.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\FSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\FSharp.Core.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\Interop.ADOX.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RALLY_NOTIFYER.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\Defects Tracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\Interop.ADOX.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RALLY_NOTIFYER.resources
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\CefSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\CefSharp.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\CefSharp.WinForms.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\FSharp.Core.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\MaterialSkin.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\Syncfusion.Compression.Base.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\Syncfusion.XlsIO.Base.dll
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\FSharp.Core.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\Syncfusion.Compression.Base.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\bin\Debug\Syncfusion.XlsIO.Base.xml
+C:\Users\miguel.g.punzal\Documents\Visual Studio 2017\Projects\myToolbox\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
